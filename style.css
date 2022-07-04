@@ -1,3 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+
+}
 h1{
-    color: orange;
+    font: 50px;
+}
+.orange-color{
+    color: rgb(64, 0, 255);
+}
+section{
+    display: flex;
+}
+div{
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-right: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 25px;
+    margin: 175px;
+    border-radius: 6px;
+    font-style: oblique;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(eat-healthy/images/shapes/Group\ 8448.png);
+    background-position: left;
+    background-repeat: no-repeat;
+
 }
