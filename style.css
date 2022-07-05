@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 font-family: 'Titillium Web', sans-serif;
 
+
 }
 h1{
     font: 50px;
@@ -20,7 +21,7 @@ div{
 }
 .link-button{
     text-decoration: none;
-    background-color: orange;
+    background-color: rgb(237, 236, 233);
     padding: 10px 25px;
     margin: 175px;
     border-radius: 6px;
@@ -33,6 +34,31 @@ div{
     background-repeat: no-repeat;
 
 }
-.class-id{
-    margin-bottom: 200px;
+.mt-100{
+    margin-top: 150px;
+}
+.half-widgt img{
+    width: 600px;
+}
+h1 span{
+    color: orangered;
+}
+.mt-100{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 1px;
+    margin-right: 30px;
+
+}
+#font-style{
+    font-weight: 900;
+    font-size: 300%;
+}
+.normalbanner{
+    background-image: url(eat-healthy/images/shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.normalbanner{
+    margin-top: 100px;
 }
